@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 About
+- Nick Name: Joyrider3774
+- Real Name: Willems Davy
+- Country: Belgium
 
-<!--
-**joyrider3774/joyrider3774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Socials
+- Itch: https://joyrider3774.itch.io/
+- Youtube: https://youtube.com/c/WillemsDavy
+- Twitter: http://twitter.com/joyrider3774
+- MicroStudio: https://microstudio.io/joyrider3774/
 
-Here are some ideas to get you started:
+## ⚡ interested in
+- Playnite & Extensions
+- Games & Game Programming
+- Emulation / FrontEnds / Cabinets
+- Fantasy Consoles (Vircon32, WASM-4, PICO-8, TIC-80, ...)
+- Handheld Devices (anbernic, powkiddy, arduboy, trim-ui, funkey, evercade, gamebuino, playdate, ...)
+- SDL 1/2/3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![Trophies](https://github-profile-trophy.vercel.app/?username=joyrider3774&theme=gitdimmed&column=5&row=2) ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=joyrider3774&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2)
