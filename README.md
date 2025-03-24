@@ -1,13 +1,13 @@
 ## 👋 About
-- Nick Name: Joyrider3774
-- Real Name: Willems Davy
-- Country: Belgium
+- **Nick Name:** Joyrider3774
+- **Real Name:** Willems Davy
+- **Country:** Belgium
 
 ## 🔗 Socials
-- Itch: https://joyrider3774.itch.io/
-- Youtube: https://youtube.com/c/WillemsDavy
-- Twitter: http://twitter.com/joyrider3774
-- MicroStudio: https://microstudio.io/joyrider3774/
+- **Itch:** https://joyrider3774.itch.io/
+- **Youtube:** https://youtube.com/c/WillemsDavy
+- **Twitter:** http://twitter.com/joyrider3774
+- **MicroStudio:** https://microstudio.io/joyrider3774/
 
 ## ⚡ interested in
 - Playnite & Extensions
