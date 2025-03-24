@@ -9,7 +9,7 @@
 - **Twitter:** http://twitter.com/joyrider3774
 - **MicroStudio:** https://microstudio.io/joyrider3774/
 
-## ⚡ interested in
+## ⚡ Interested in
 - Playnite & Extensions
 - Games & Game Programming
 - Emulation / FrontEnds / Cabinets
