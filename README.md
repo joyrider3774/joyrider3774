@@ -17,6 +17,10 @@
 - Handheld Devices (anbernic, powkiddy, arduboy, trim-ui, funkey, evercade, gamebuino, playdate, ...)
 - SDL 1/2/3
 
+## Support my work
+Buy me a coffee: [ko-fi.com/joyrider3774](https://ko-fi.com/joyrider3774/tip)
+Donate on Paypal: https://www.paypal.com/donate?hosted_button_id=L3W9JCP4XBD7Y
+
 ## 🚀 Stats
 ![Trophies](https://github-profile-trophy.vercel.app/?username=joyrider3774&theme=gitdimmed&column=5&row=2)
 
