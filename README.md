@@ -22,6 +22,6 @@
 - Donate on Paypal: [paypal.com/donate](https://www.paypal.com/donate?hosted_button_id=L3W9JCP4XBD7Y)
 
 ## 🚀 Stats
-![Trophies](trophy.svg)
+![Trophies](./profile/trophy.svg)
 
 ![more stats](./profile/stats.svg) ![Stats](./profile/top-langs.svg)
