@@ -22,6 +22,6 @@
 - Donate on Paypal: [paypal.com/donate](https://www.paypal.com/donate?hosted_button_id=L3W9JCP4XBD7Y)
 
 ## 🚀 Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=joyrider3774&theme=gitdimmed&column=5&row=2)
+![Trophies](trophy.svg)
 
-![more stats](https://github-readme-stats.vercel.app/api?username=joyrider3774&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=joyrider3774&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2)
+![more stats](./profile/stats.svg) ![Stats](./profile/top-langs.svg)
