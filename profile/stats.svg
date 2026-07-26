@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Willems Davy's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 339, Total Commits  (last year) : 748, Total PRs: 138, Total Issues: 130, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 340, Total Commits  (last year) : 759, Total PRs: 139, Total Issues: 130, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.92907787115603;
+        stroke-dashoffset: 50.53664107991429;
       }
     }
   
@@ -155,10 +155,10 @@
       <text class="stat  bold"  y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="stars"
-      >339</text>
+      >340</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -166,10 +166,10 @@
       <text class="stat  bold"  y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="commits"
-      >748</text>
+      >759</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -177,10 +177,10 @@
       <text class="stat  bold"  y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="prs"
-      >138</text>
+      >139</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
       <text class="stat  bold"  y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="issues"
       >130</text>
@@ -199,7 +199,7 @@
       <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="contribs"
       >12</text>
