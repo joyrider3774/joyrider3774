@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Willems Davy&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 350, Total Commits  (last year) : 971, Total PRs: 141, Total Issues: 131, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 351, Total Commits  (last year) : 971, Total PRs: 141, Total Issues: 131, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.51294831731295;
+        stroke-dashoffset: 47.4868336651634;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -158,7 +165,7 @@
         x="204.01"
         y="12.5"
         data-testid="stars"
-      >350</text>
+      >351</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
